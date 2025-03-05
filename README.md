@@ -1,6 +1,6 @@
 # MezoTransactionTool 🚀🔥
-A LangChain tool for sending BTC and mUSD transactions on Mezo Matsnet. Major degen swag. 
+OS Agent Kit for Mezo matsnet. v0.8.4. Check repo for modular tools.
 
 ## Installation
 ```bash
-pip install mezoTransactionTool
+pip install mezoAgentKit
